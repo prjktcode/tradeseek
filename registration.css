@@ -1,0 +1,41 @@
+body {
+    padding: 50px;
+    background-color: #d1c2c2;
+}
+
+.container {
+    max-width:600px ;
+    margin:0 auto;
+    background-color: #fff;
+    padding: 50px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+    margin-bottom: 30px;
+
+}
+
+h1 {
+    color: #333;
+}
+
+.btn-custom {
+    color: #700000;
+    background-color: #ffa500; /* Orange */
+    border-color: #ffa500; /* Orange */
+    margin: 10px;
+}
+
+.btn-custom:hover {
+    background-color: #ff8c00; /* Darker Orange on Hover */
+    border-color: #ff8c00; /* Darker Orange on Hover */
+
+} 
+.btn-success {
+    margin: 10px;
+    
+}
+
+

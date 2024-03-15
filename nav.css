@@ -1,0 +1,32 @@
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.header-right {
+    margin-left: auto;
+}
+.a-header {
+    margin-right: 10px;
+}
+.light {
+    color: #6c757d;
+}
+.herotitle {
+    font-size: 3rem;
+    font-weight: bold;
+}
+.herotext {
+    font-size: 1.5rem;
+}
+.herobutton {
+    margin-right: 10px;
+    font-size: 1.25rem;
+    padding: 10px 20px;
+}
+.homesubtitle {
+    font-size: 2rem;
+    font-weight: bold;
+}
+.px28 {
+    font-size: 1.75rem;
+}
